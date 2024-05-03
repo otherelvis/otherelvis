@@ -1,5 +1,7 @@
 ✌🏾 @otherelvis = elvis a. eugene
-* the Art of Mathematical programming 👀 
+
+* the Art of Mathematical programming 👀
+  
 🌱 How do I build a website?
 💞️ mathemagic for the future
 😌 he/him/they/them
